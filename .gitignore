@@ -14,3 +14,7 @@ CMakeCache.txt
 *.suo
 .vs/
 .vscode/
+include/gsl.cpp
+gsl.vcxproj
+gsl.vcxproj.filters
+gsl.vcxproj.user
